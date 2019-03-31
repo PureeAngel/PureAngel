@@ -1,0 +1,2 @@
+git remote add origin https://github.com/PureeAngel/PureAngel.git
+git push -u origin master
